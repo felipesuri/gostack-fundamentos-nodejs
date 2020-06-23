@@ -16,12 +16,12 @@
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#calendar-entrega">Entrega</a>
 </p>
 
 ## :rocket: Sobre o desafio
 
-Este desafio está incluso no módulo 02 do Bootcamp GoStack. Você pode ver mais especificações do desafio [aqui](https://github.com/felipesuri/desafios-bootcamp-gostack/tree/master/module-01/conceitos-nodejs).
+Este desafio está incluso no módulo 02 do Bootcamp GoStack. Você pode ver mais especificações do desafio [aqui](https://github.com/felipesuri/desafios-bootcamp-gostack/blob/master/module-02/fundamentos-nodejs/README.md).
 
 ## :calendar: Entrega
 
